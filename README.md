@@ -1,4 +1,4 @@
-Bank User Clustering – First Unsupervised Learning Project
+Bank User Clustering - Unsupervised Learning Project
 ==========================================================
 
 Problem Statement
@@ -133,3 +133,10 @@ This group appears financially stable with controlled spending patterns.
 The PCA visualization showed that while the clusters are not perfectly separated, there is visible grouping in the reduced 2D space. Some overlap exists between clusters, which is expected since financial behavior in real life does not form perfectly distinct categories.
 
 Overall, the clustering produced meaningful behavioral segments even with relatively simple feature engineering.
+
+Conclusion
+----------
+
+In this project, I applied unsupervised learning to real transaction data to identify different user behavior patterns. Even with simple feature engineering and basic clustering techniques, it was possible to segment users into meaningful groups.
+
+This project helped me understand how clustering works in practice and how raw data can be transformed into behavioral insights through preprocessing, feature engineering, scaling, and model interpretation.
